@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5FC862F3-B1E5-49A6-B07C-C538C82EF76E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>rose</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC79037E8CFDE627FB123A2E639857F71FE7C98E</key>
+		<string>https://github.com/danaavesar/of_creativecoding_fall2015_dana_avesar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week4/rose/rose.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC79037E8CFDE627FB123A2E639857F71FE7C98E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danaavesar/of_creativecoding_fall2015_dana_avesar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC79037E8CFDE627FB123A2E639857F71FE7C98E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC79037E8CFDE627FB123A2E639857F71FE7C98E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>of_creativecoding_fall2015_dana_avesar</string>
+		</dict>
+	</array>
+</dict>
+</plist>

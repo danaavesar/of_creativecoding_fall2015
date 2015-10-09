@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AE7F8FB91BB8303D00A86781 /* Branch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AE7F8FB71BB8303D00A86781 /* Branch.cpp */; };
 		AE7F8FBC1BB8342B00A86781 /* Rose.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AE7F8FBA1BB8342B00A86781 /* Rose.cpp */; };
 		BBAB23CB13894F3D00AA2426 /* GLUT.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = BBAB23BE13894E4700AA2426 /* GLUT.framework */; };
 		E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4328148138ABC890047C5CB /* openFrameworksDebug.a */; };
@@ -61,8 +60,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		AE7F8FB71BB8303D00A86781 /* Branch.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Branch.cpp; sourceTree = "<group>"; };
-		AE7F8FB81BB8303D00A86781 /* Branch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Branch.h; sourceTree = "<group>"; };
 		AE7F8FBA1BB8342B00A86781 /* Rose.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Rose.cpp; sourceTree = "<group>"; };
 		AE7F8FBB1BB8342B00A86781 /* Rose.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rose.h; sourceTree = "<group>"; };
 		BBAB23BE13894E4700AA2426 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = ../../../libs/glut/lib/osx/GLUT.framework; sourceTree = "<group>"; };
@@ -191,8 +188,6 @@
 				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
 				AE7F8FBA1BB8342B00A86781 /* Rose.cpp */,
 				AE7F8FBB1BB8342B00A86781 /* Rose.h */,
-				AE7F8FB71BB8303D00A86781 /* Branch.cpp */,
-				AE7F8FB81BB8303D00A86781 /* Branch.h */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -236,7 +231,7 @@
 			attributes = {
 				LastUpgradeCheck = 0460;
 			};
-			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "tree" */;
+			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "rose" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -294,7 +289,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
-				AE7F8FB91BB8303D00A86781 /* Branch.cpp in Sources */,
 				AE7F8FBC1BB8342B00A86781 /* Rose.cpp in Sources */,
 				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
 			);
@@ -546,7 +540,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "tree" */ = {
+		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "rose" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E4B69B4E0A3A1720003C02F2 /* Debug */,

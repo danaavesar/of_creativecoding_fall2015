@@ -60,34 +60,34 @@ void Branch::setup(float _xPos, float _yPos,
     
     //===========================================
     // create the Roses!!!
-    
-    for(int i=0; i < numTreeRoses; i++){
-     
-        numberOfRosePetals = 105;
-        int rotation = 0;
-        int cycles = 0;
-        for(int j=0; j<numberOfRosePetals; j++){
-            Rose myRosePetal;
-            rotation += 360/7;
-    
-            if(rotation <= 360){ //big leaves
-                cycles = 0;
-    
-            }else if(rotation >= 360 ){ //small leaves
-    //            rotation += 360/8;
-                cycles = ((rotation - (rotation%360))/360); //find the cycle by finding the closest multiple of 360 inside of rotation
-            }
-    
-            cout<<cycles<<endl;
-    
-            myRosePetal.setup(cycles,rotation);
-            
-            rose.push_back(myRosePetal);
-        }
-        
-        //create a temp Rose? double vector that can store the entire rose in it?
-       // rosesOnTree.push_back(rose);
-    }
+//    
+//    for(int i=0; i < numTreeRoses; i++){
+//     
+//        numberOfRosePetals = 105;
+//        int rotation = 0;
+//        int cycles = 0;
+//        for(int j=0; j<numberOfRosePetals; j++){
+//            Rose myRosePetal;
+//            rotation += 360/7;
+//    
+//            if(rotation <= 360){ //big leaves
+//                cycles = 0;
+//    
+//            }else if(rotation >= 360 ){ //small leaves
+//    //            rotation += 360/8;
+//                cycles = ((rotation - (rotation%360))/360); //find the cycle by finding the closest multiple of 360 inside of rotation
+//            }
+//    
+//            cout<<cycles<<endl;
+//    
+//            myRosePetal.setup(cycles,rotation);
+//            
+//            rose.push_back(myRosePetal);
+//        }
+//        
+//        //create a temp Rose? double vector that can store the entire rose in it?
+//       // rosesOnTree.push_back(rose);
+//    }
     
     //===========================================
     //draw current branch instance
