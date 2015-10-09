@@ -33,7 +33,9 @@ void Rose::setup(){
 
 void Rose::draw(float _xPos, float _yPos){
     for(int i=0; i<numberOfPetals; i++){
+     
         rosePetalVector[i].draw(_xPos, _yPos);
+    
     }
 }
 

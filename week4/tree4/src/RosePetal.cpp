@@ -42,8 +42,11 @@ void RosePetal::setup( int _cycles, float _rotation){
 
 void RosePetal::draw(float _xPos, float _yPos){
     ofPushMatrix();
+    
     ofSetColor(color);
     ofTranslate(_xPos, _yPos);
+    ofPushStyle();
+    ofScale(.2, .2);
     ofRotate(rotation);
     ofScale(scaleFactor, scaleFactor);
     ofBeginShape();
@@ -64,6 +67,7 @@ void RosePetal::draw(float _xPos, float _yPos){
     ofBezierVertex(x1, y1, x2, y2, x3, y3);
     
     ofEndShape();
-    
+    ofPopStyle();
     ofPopMatrix();
+    
 }

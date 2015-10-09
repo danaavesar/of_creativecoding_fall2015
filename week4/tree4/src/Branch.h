@@ -27,7 +27,6 @@ public:
                int _season);
     void update();
     void draw();
-    
     Rose myRose;
 private:
     float xPos, yPos;

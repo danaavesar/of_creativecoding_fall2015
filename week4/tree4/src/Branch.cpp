@@ -106,7 +106,7 @@ void Branch::setup(float _xPos, float _yPos,
             subBranch.setup(xPos, yPos, width, length, splitPercentage, maxSplitAngle, maxSubdivisions, maxSegments, segmentsSinceStart, angle, curvature, color, season);
             
         }else{
-            cout << "split" << endl; //some feedback
+            
             Branch subBranch1;
             float angle1 = angle + ofRandom(0, maxSplitAngle);
             Branch subBranch2;
@@ -118,10 +118,17 @@ void Branch::setup(float _xPos, float _yPos,
         }
     }
 
-    
-    
-    
-    
+
     
     
 }
+
+//--------------------------------------------------------------
+void Branch::update(){
+    
+}
+
+//--------------------------------------------------------------
+void Branch::draw(){
+}
+    
