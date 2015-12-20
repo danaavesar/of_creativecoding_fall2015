@@ -1,0 +1,5 @@
+ofxKinect
+ofxOpenCv
+ofxDrawnetic
+ofxGenerative
+ofxMesh

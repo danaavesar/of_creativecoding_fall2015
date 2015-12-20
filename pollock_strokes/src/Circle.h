@@ -1,14 +1,33 @@
-//
-//  Circle.h
-//  pollock_strokes
-//
-//  Created by Dana Avesar on 12/15/15.
-//
-//
+#pragma once
 
-#ifndef __pollock_strokes__Circle__
-#define __pollock_strokes__Circle__
+#include "ofMain.h"
 
-#include <stdio.h>
 
-#endif /* defined(__pollock_strokes__Circle__) */
+class Circle : public ofBaseApp{
+    
+public:
+    void setup(int x, int y, float _radius);
+    void update();
+    void draw();
+    
+    void keyPressed(int key);
+    void keyReleased(int key);
+    void mouseMoved(int x, int y );
+    void mouseDragged(int x, int y, int button);
+    void mousePressed(int x, int y, int button);
+    void mouseReleased(int x, int y, int button);
+    void windowResized(int w, int h);
+    void dragEvent(ofDragInfo dragInfo);
+    void gotMessage(ofMessage msg);
+    
+    int width;
+    int radius;
+    ofPoint pos;
+    int random;
+    int randomRadi;
+    int offset;
+    int ranPosX;
+    int ranPosY;
+
+    
+};

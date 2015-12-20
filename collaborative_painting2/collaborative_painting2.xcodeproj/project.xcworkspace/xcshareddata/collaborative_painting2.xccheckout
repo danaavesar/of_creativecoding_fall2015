@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB08FC85-12A0-45BD-84EC-2595679E7F19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>collaborative_painting2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>401A4D5AEBE32ECF2624FD6C4CE1AE88BC7CAD59</key>
+		<string>https://github.com/rezaali/ofxGenerative.git</string>
+		<key>BC79037E8CFDE627FB123A2E639857F71FE7C98E</key>
+		<string>https://github.com/danaavesar/of_creativecoding_fall2015_dana_avesar.git</string>
+		<key>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</key>
+		<string>https://github.com/rezaali/ofxMesh.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>collaborative_painting2/collaborative_painting2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>401A4D5AEBE32ECF2624FD6C4CE1AE88BC7CAD59</key>
+		<string>../../../../addons/ofxGenerative</string>
+		<key>BC79037E8CFDE627FB123A2E639857F71FE7C98E</key>
+		<string>../../..</string>
+		<key>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</key>
+		<string>../../../../addons/ofxMesh</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danaavesar/of_creativecoding_fall2015_dana_avesar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC79037E8CFDE627FB123A2E639857F71FE7C98E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC79037E8CFDE627FB123A2E639857F71FE7C98E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>of_creativecoding_fall2015_dana_avesar</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>401A4D5AEBE32ECF2624FD6C4CE1AE88BC7CAD59</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxGenerative</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FFD5D0DD19F94AF7F27ED4AFCCFA24A4ED3389BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMesh</string>
+		</dict>
+	</array>
+</dict>
+</plist>

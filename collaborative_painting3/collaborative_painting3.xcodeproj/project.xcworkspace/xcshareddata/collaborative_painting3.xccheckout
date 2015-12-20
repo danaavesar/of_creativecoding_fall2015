@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>60724915-73C0-489F-8694-E26D333D9E67</string>
+	<key>IDESourceControlProjectName</key>
+	<string>collaborative_painting3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4A64B9BC7CC86E8C70E97E6A25159E1237C669F1</key>
+		<string>https://github.com/Akira-Hayasaka/ofxInkSim.git</string>
+		<key>7E3D5A49CFF0B38A4D3351480FCAFA792A459FF0</key>
+		<string>https://github.com/motoishmz/ofxMoodMachine.git</string>
+		<key>BC79037E8CFDE627FB123A2E639857F71FE7C98E</key>
+		<string>https://github.com/danaavesar/of_creativecoding_fall2015_dana_avesar.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>collaborative_painting3/collaborative_painting3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4A64B9BC7CC86E8C70E97E6A25159E1237C669F1</key>
+		<string>../../../../addons/ofxInkSim</string>
+		<key>7E3D5A49CFF0B38A4D3351480FCAFA792A459FF0</key>
+		<string>../../../../addons/ofxMoodMachine</string>
+		<key>BC79037E8CFDE627FB123A2E639857F71FE7C98E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/danaavesar/of_creativecoding_fall2015_dana_avesar.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC79037E8CFDE627FB123A2E639857F71FE7C98E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC79037E8CFDE627FB123A2E639857F71FE7C98E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>of_creativecoding_fall2015_dana_avesar</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A64B9BC7CC86E8C70E97E6A25159E1237C669F1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxInkSim</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E3D5A49CFF0B38A4D3351480FCAFA792A459FF0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMoodMachine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
