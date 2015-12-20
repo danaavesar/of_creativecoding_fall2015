@@ -7,9 +7,9 @@ This is using openFrameworks v0.8.0. The openCV files are edited and I included 
 
 Here are some pictures and the video is coming soon!
 
-![Alternate text](/Users/danaavesar/Desktop/openFrameworks/of_creativecoding_fall2015_dana_avesar/collaborative_painting4-final/IMG_20151217_21244.jpg)
+![Alternate text](IMG_20151217_21244.jpg)
 
-![Alternate text](/Users/danaavesar/Desktop/openFrameworks/of_creativecoding_fall2015_dana_avesar/collaborative_painting4-final/VID_20151217_212035.jpg)
+![Alternate text](VID_20151217_212035.jpg)
 
 
-![Alternate text](/Users/danaavesar/Desktop/openFrameworks/of_creativecoding_fall2015_dana_avesar/collaborative_painting4-final/VID_20151217_230842.jpg)
+![Alternate text](VID_20151217_230842.jpg)
