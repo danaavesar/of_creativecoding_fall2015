@@ -7,7 +7,7 @@ This is using openFrameworks v0.8.0. The openCV files are edited and I included 
 
 
 <iframe src="https://player.vimeo.com/video/149797977" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/149797977">collaborative painting</a> from <a href="https://vimeo.com/user18281455">Dana Avesar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/149797977">Watch the video: collaborative painting</a> from <a href="https://vimeo.com/user18281455">Dana Avesar</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ![Alternate text](IMG_20151217_21244.jpg)
