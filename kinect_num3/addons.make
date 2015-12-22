@@ -1,3 +1,0 @@
-ofxKinect
-ofxOpenCv
-ofxCv
